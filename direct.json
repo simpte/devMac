@@ -1,7 +1,7 @@
 {
     "Value" : "true",
     "LinkToGame" : "https://play.google.com/store/apps/details?id=come",
-    "InterbuttomImageUrl" : "https://github.com/simpte/devMac/blob/main/t%C3%A9l%C3%A9charger.png?raw=true",
-    "PopUpbuttomImageUrl" : "https://github.com/simpte/devMac/blob/main/t%C3%A9l%C3%A9charger.png?raw=true",
+    "InterbuttomImageUrl" : "https://github.com/simpte/devMac/blob/main/telecharger.png?raw=true",
+    "PopUpbuttomImageUrl" : "https://github.com/simpte/devMac/blob/main/telecharger.png?raw=true",
      "ShowClose" : "True"
 }
